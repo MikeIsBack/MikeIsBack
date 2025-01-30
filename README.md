@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there! I'm **Michael** 👋  
 
-<!--
-**MikeIsBack/MikeIsBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Computer Scientist who loves exploring the infinite potential of the IT world.  
 
-Here are some ideas to get you started:
+💡 Always learning | 💻 Love coding | 🌍 Open to change  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+## 🎓 Education  
+- **Bachelor's Degree** in Computer Science @ University of Padova  
+- **Master's Degree (Ongoing)** in Computer Science @ University of Padova - major in Internet, Mobile and Security  
+
+---  
+
+## 🛠 Tech Stack  
+- **Languages:** Dart, C++, SQL, Java, Python (beginner)  
+- **Frameworks:** Flutter  
+- **Tools & Platforms:** Git, VSCode, Firebase  
+
+---  
+
+## 🌍 Interests  
+- Internet of Things  
+- Wireless networks  
+- Mobile development  
+- Web and mobile usability  
+
+---  
+
+## 📫 Contact Me  
+- [Email me](mailto:amistamichael@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/michael-amista-980a26293/)
