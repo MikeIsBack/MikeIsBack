@@ -2,7 +2,7 @@
 
 Passionate Computer Scientist who loves exploring the infinite potential of the IT world.  
 
-💡 Always learning | 💻 Love coding | 🌍 Open to change  
+💡 Always learning | 💻 Love designing & coding | 🌍 Open to change  
 
 ---  
 
@@ -27,6 +27,7 @@ Passionate Computer Scientist who loves exploring the infinite potential of the 
 
 ---  
 
-## 📫 Contact Me  
+## 📧 Contact Me  
 - [Email me](mailto:amistamichael@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/michael-amista-980a26293/)
+- [CV](https://drive.google.com/file/d/1aQ8UUrgmLF0wW8e-Pa2j2bA57UtfBWt8/view?usp=sharing)
