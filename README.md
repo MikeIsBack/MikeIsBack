@@ -30,4 +30,4 @@ Passionate Computer Scientist who loves exploring the infinite potential of the 
 ## 📧 Contact Me  
 - [Email me](mailto:amistamichael@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/michael-amista-980a26293/)
-- [CV](https://drive.google.com/file/d/1xLCVAGI45r1uxS1fkHRuJnhSJFD9Qddo/view?usp=sharing)
+- [Get my CV](https://drive.google.com/file/d/1ev1ip8jUrooOTj-4qpODxhrOWQy2jgAv/view?usp=sharing)
